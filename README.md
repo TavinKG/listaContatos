@@ -1,10 +1,10 @@
 <h1 align="center">Lista de Contatos</h1>
 <p align="center">Projeto de Estrutura de Dados utilizando linguagem C.</p>
 
-![GitHub language count](https://img.shields.io/github/languages/count/TavinKG/melody-fusion?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/TavinKG/melody-fusion?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/TavinKG/melody-fusion?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/TavinKG/melody-fusion?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/TavinKG/listaContatos?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/TavinKG/listaContatos?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/TavinKG/listaContatos?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/TavinKG/listaContatos?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/STATUS-FINALIZADO-blue?style=for-the-badge)
 
 
